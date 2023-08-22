@@ -8,7 +8,7 @@ module.exports = {
   daisyui: {
     themes: [
       "light",
-      "dark",
+      "false",
     ],
   },
   theme: {
@@ -20,23 +20,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        newYellow: '#EEBF63',
-        newbBlue: '#90C0E8',
-        newGreen: '#6FC2C5',
-        newDark: '#1C1C1C',
-        newDarkGray: '#2F2F2F',
-        newGray: '#828282',
-        newLightGray: '#E1E1E1',
-        newLighterGray: '#F1F1F1',
-        newDarkYello: '#CD921E',
-        newDarkBlue: '#486074',
-        newDarkGreen: '#386163',
-      },
-      fontFamily: {
-        Poppins: ['Poppins', 'sans-serif'],
+        newbBlue: '#272E71',
       },
       maxWidth: {
-        'custom': '1100px',
+        'custom': '1300px',
       },
     },
   },
