@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* * {
+  border: 1px solid red;
+} */
+
+body {
+  background: #F9FAFB;
+}
